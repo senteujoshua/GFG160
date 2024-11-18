@@ -8,23 +8,7 @@ The 160-day challenge is designed to improve problem-solving skills and DSA prof
 🗂️ Repository Structure
 The repository is structured to track daily progress and organize solutions by topics for easy navigation:
 
-mathematica
-Copy code
-📂 160-Days-DSA-Challenge
-├── Day1/
-│   ├── Problem1_Solution.cpp
-│   ├── Problem2_Solution.py
-│   └── Notes.md
-├── Day2/
-│   ├── Problem1_Solution.cpp
-│   └── Notes.md
-├── Topics/
-│   ├── Arrays/
-│   │   ├── Problem1_Solution.cpp
-│   │   └── Problem2_Solution.py
-│   ├── LinkedLists/
-│   └── Trees/
-└── README.md
+
 📅 Daily Progress Tracker
 Day	Topic	Problems Solved	Notes
 Day 1	Arrays	Returned second largest number in array of positive numbers.
@@ -50,15 +34,9 @@ Version Control: Git & GitHub
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/YourUsername/160-Days-DSA-Challenge.git
+https://github.com/senteujoshua/GFG160.git
 cd 160-Days-DSA-Challenge
-Navigate to a specific day:
-bash
-Copy code
-cd Day1
-Explore solutions and notes:
-Open code files (.cpp, .py, etc.) for solutions.
-Open Notes.md for key learnings.
+
 💡 Goals for the Challenge
 Master problem-solving techniques across various DSA topics.
 Develop clean, efficient, and optimized code.
