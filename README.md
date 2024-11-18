@@ -9,11 +9,11 @@ The 160-day challenge is designed to improve problem-solving skills and DSA prof
 The repository is structured to track daily progress and organize solutions by topics for easy navigation:
 
 
-📅 Daily Progress Tracker\n
-Day	Topic	Problems Solved	Notes\n
-Day 1	Arrays	Returned second largest number in array of positive numbers.\n
+📅 Daily Progress Tracker
+Day	Topic	Problems Solved	Notes
+Day 1	Arrays	Returned second largest number in array of positive numbers.
 Day 2 Arrays	Reverse an Array and moved all zeros to the end of the array .
-Day 3 Arrays  Rotate an array.\n
+Day 3 Arrays  Rotate an array.
 ...			
 📖 Topics Covered
 Here are the topics I’ll tackle over the 160 days:
