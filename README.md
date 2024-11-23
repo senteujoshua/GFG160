@@ -1,6 +1,3 @@
-I will now update the README file with the new detailed topics breakdown provided. Here's the modified content:
-
----
 
 # 160 Days GeeksforGeeks DSA Challenge
 
@@ -22,10 +19,8 @@ The 160-day challenge is designed to improve problem-solving skills and DSA prof
 
 The repository is structured to track daily progress and organize solutions by topics for easy navigation:
 
-### 📅 Daily Progress Tracker
-
-| Day   | Topic         | Problems Solved                                   | Notes                               |
-|-------|---------------|--------------------------------------------------|-------------------------------------|
+📅 Daily Progress Tracker
+Day	Topic	Problems Solved	Notes
 Day 1	Arrays	Second Largest Element in an Array	Identified the second largest element.
 Day 2	Arrays	Move All Zeros to End of Array	Shifted zeros while maintaining order.
 Day 3	Arrays	Array Reverse - Complete Tutorial	Explored efficient array reversal.
@@ -34,6 +29,7 @@ Day 5	Arrays	Next Permutation	Generated next lexicographical permutation.
 Day 6	Arrays	Majority Element II	Found elements occurring more than ⌊N/3⌋ times.
 Day 7	Arrays	Stock Buy and Sell - Multiple Transactions Allowed	Maximized profit with multiple trades.
 Day 8	Arrays	Stock Buy and Sell - Max One Transaction Allowed	Optimized single-transaction profit.
+
 
 
 
