@@ -26,12 +26,16 @@ The repository is structured to track daily progress and organize solutions by t
 
 | Day   | Topic         | Problems Solved                                   | Notes                               |
 |-------|---------------|--------------------------------------------------|-------------------------------------|
-| Day 1 | Arrays        | Returned second largest number in array.         | -                                   |
-| Day 2 | Arrays        | Moved zeros to the end of an array               | -                                   |
-| Day 3 | Arrays        | Array Reverse.                                   | -                                   |
-| Day 4 | Arrays        |Rotate an Array by d -CounterClockwise or left    |                                     |
+Day 1	Arrays	Second Largest Element in an Array	Identified the second largest element.
+Day 2	Arrays	Move All Zeros to End of Array	Shifted zeros while maintaining order.
+Day 3	Arrays	Array Reverse - Complete Tutorial	Explored efficient array reversal.
+Day 4	Arrays	Rotate an Array by d - Counterclockwise or Left	Implemented array rotation techniques.
+Day 5	Arrays	Next Permutation	Generated next lexicographical permutation.
+Day 6	Arrays	Majority Element II	Found elements occurring more than ⌊N/3⌋ times.
+Day 7	Arrays	Stock Buy and Sell - Multiple Transactions Allowed	Maximized profit with multiple trades.
+Day 8	Arrays	Stock Buy and Sell - Max One Transaction Allowed	Optimized single-transaction profit.
 
----
+
 
 ## 📖 Topics Breakdown
 
