@@ -1,4 +1,3 @@
-
 # 160 Days GeeksforGeeks DSA Challenge
 
 Welcome to my **160 Days GeeksforGeeks DSA Coding Challenge Repository!** 🚀  
@@ -68,7 +67,7 @@ Here are the topics I’ll tackle over the 160 days:
 
 ## 🔧 Tools & Languages
 
-- **Programming Languages:** Python, C++, Java  
+- **Programming Languages:** Python  
 - **Platform:** GeeksforGeeks  
 - **Version Control:** Git & GitHub  
 
